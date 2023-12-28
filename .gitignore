@@ -6,3 +6,5 @@
 /MyWebSite/App_Data
 /MyWebSite/bin/Debug/net8.0
 /MyWebSite/obj
+/OrchardCore.Themes/NewAge/bin/Debug/net7.0
+/OrchardCore.Themes/NewAge/obj
