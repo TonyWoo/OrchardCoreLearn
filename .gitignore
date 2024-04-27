@@ -8,3 +8,6 @@
 /MyWebSite/obj
 /OrchardCore.Themes/NewAge/bin/Debug/net7.0
 /OrchardCore.Themes/NewAge/obj
+/MyWebSite/App_Data - Copy
+/MyWebSite/wwwroot/Default/is-cache
+/MyWebSite/MyWebSite.csproj.user
